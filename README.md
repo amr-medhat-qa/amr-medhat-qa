@@ -27,6 +27,8 @@ I build maintainable automation frameworks, validate APIs and data end to end, a
 ![TestNG](https://img.shields.io/badge/TestNG-FF7F00)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![axe-core](https://img.shields.io/badge/axe--core-a11y-663399)
+![Allure](https://img.shields.io/badge/Allure-ff6a00)
 
 **API & Data**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -42,13 +44,13 @@ I build maintainable automation frameworks, validate APIs and data end to end, a
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white)
 
-**Testing types:** Functional · Regression · API · E2E · Integration · UAT · Static testing
+**Testing types:** Functional · Regression · API · Contract · E2E · Integration · Accessibility · Visual · UAT · Static testing
 
 ### 📌 Featured projects
 
 | Project | Description | Reports |
 |---------|-------------|---------|
-| [**playwright-typescript-automation**](https://github.com/amr-medhat-qa/playwright-typescript-automation) | UI + API automation framework with Playwright & TypeScript — Page Object Model, custom fixtures, API client layer, cross-browser runs (Chromium & Firefox), ESLint/Prettier quality gate, GitHub Actions CI | [HTML](https://amr-medhat-qa.github.io/playwright-typescript-automation/) · [Allure](https://amr-medhat-qa.github.io/playwright-typescript-automation/allure/) |
+| [**playwright-typescript-automation**](https://github.com/amr-medhat-qa/playwright-typescript-automation) | UI, API, **accessibility** and **visual regression** testing with Playwright & TypeScript — Page Object Model, custom fixtures, cross-browser runs (Chromium & Firefox), axe-core WCAG 2.1 AA scans, screenshot comparison that catches a real visual bug, ESLint/Prettier quality gate, GitHub Actions CI | [HTML](https://amr-medhat-qa.github.io/playwright-typescript-automation/) · [Allure](https://amr-medhat-qa.github.io/playwright-typescript-automation/allure/) |
 | [**playwright-api-testing**](https://github.com/amr-medhat-qa/playwright-api-testing) | REST API suite with Playwright, TypeScript & **Zod contract validation** — JWT auth & refresh flow, business-rule checks, data-driven tests, response-time guard, and a real API bug documented with `test.fail()` | [HTML](https://amr-medhat-qa.github.io/playwright-api-testing/) · [Allure](https://amr-medhat-qa.github.io/playwright-api-testing/allure/) |
 
 ### 💼 Experience
