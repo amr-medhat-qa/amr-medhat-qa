@@ -30,6 +30,7 @@ I build maintainable automation frameworks, validate APIs and data end to end, a
 
 **API & Data**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=databricks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
@@ -43,11 +44,12 @@ I build maintainable automation frameworks, validate APIs and data end to end, a
 
 **Testing types:** Functional · Regression · API · E2E · Integration · UAT · Static testing
 
-### 📌 Featured project
+### 📌 Featured projects
 
-| Project | Description |
-|---------|-------------|
-| [**playwright-typescript-automation**](https://github.com/amr-medhat-qa/playwright-typescript-automation) | UI + API automation framework with Playwright & TypeScript — Page Object Model, custom fixtures, API client layer, cross-browser runs, GitHub Actions CI with a [live test report](https://amr-medhat-qa.github.io/playwright-typescript-automation/) |
+| Project | Description | Reports |
+|---------|-------------|---------|
+| [**playwright-typescript-automation**](https://github.com/amr-medhat-qa/playwright-typescript-automation) | UI + API automation framework with Playwright & TypeScript — Page Object Model, custom fixtures, API client layer, cross-browser runs (Chromium & Firefox), ESLint/Prettier quality gate, GitHub Actions CI | [HTML](https://amr-medhat-qa.github.io/playwright-typescript-automation/) · [Allure](https://amr-medhat-qa.github.io/playwright-typescript-automation/allure/) |
+| [**playwright-api-testing**](https://github.com/amr-medhat-qa/playwright-api-testing) | REST API suite with Playwright, TypeScript & **Zod contract validation** — JWT auth & refresh flow, business-rule checks, data-driven tests, response-time guard, and a real API bug documented with `test.fail()` | [HTML](https://amr-medhat-qa.github.io/playwright-api-testing/) · [Allure](https://amr-medhat-qa.github.io/playwright-api-testing/allure/) |
 
 ### 💼 Experience
 
