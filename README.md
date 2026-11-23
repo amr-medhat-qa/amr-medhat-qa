@@ -32,6 +32,7 @@ I build maintainable automation frameworks, validate APIs and data end to end, a
 
 **API & Data**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=databricks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -53,6 +54,7 @@ I build maintainable automation frameworks, validate APIs and data end to end, a
 | [**playwright-typescript-automation**](https://github.com/amr-medhat-qa/playwright-typescript-automation) | UI, API, **accessibility** and **visual regression** testing with Playwright & TypeScript — Page Object Model, custom fixtures, cross-browser & mobile runs (Chromium, Firefox, iPhone, Android), axe-core WCAG 2.1 AA scans, screenshot comparison that catches a real visual bug, ESLint/Prettier quality gate, GitHub Actions CI | [HTML](https://amr-medhat-qa.github.io/playwright-typescript-automation/) · [Allure](https://amr-medhat-qa.github.io/playwright-typescript-automation/allure/) |
 | [**playwright-api-testing**](https://github.com/amr-medhat-qa/playwright-api-testing) | REST API suite with Playwright, TypeScript & **Zod contract validation** — JWT auth & refresh flow, business-rule checks, data-driven tests, response-time guard, and a real API bug documented with `test.fail()` | [HTML](https://amr-medhat-qa.github.io/playwright-api-testing/) · [Allure](https://amr-medhat-qa.github.io/playwright-api-testing/allure/) |
 | [**selenium-java-testng**](https://github.com/amr-medhat-qa/selenium-java-testng) | UI framework with **Selenium WebDriver, Java 21 & TestNG** — Page Object Model with explicit waits only, ThreadLocal driver for parallel runs, Chrome/Firefox/Edge, data-driven tests, **Allure reporting**, and flaky tests investigated from Chrome's network log (root causes documented); CI tests a pinned local build of the app instead of a public site | [Allure](https://amr-medhat-qa.github.io/selenium-java-testng/) |
+| [**postman-newman-api-testing**](https://github.com/amr-medhat-qa/postman-newman-api-testing) | **Postman collection + Newman** for the Restful-Booker API — 20 requests, 93 assertions, request chaining, JSON Schema checks, pre-request data generation, **data-driven run from CSV**, negative and security cases, API bugs documented, Newman runs in GitHub Actions on every push and on weekdays | [HTML](https://amr-medhat-qa.github.io/postman-newman-api-testing/) |
 
 ### 💼 Experience
 
