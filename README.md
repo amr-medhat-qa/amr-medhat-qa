@@ -33,6 +33,7 @@ I build maintainable automation frameworks, validate APIs and data end to end, a
 **API & Data**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Newman](https://img.shields.io/badge/Newman-FF6C37)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=databricks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -55,6 +56,7 @@ I build maintainable automation frameworks, validate APIs and data end to end, a
 | [**playwright-api-testing**](https://github.com/amr-medhat-qa/playwright-api-testing) | REST API suite with Playwright, TypeScript & **Zod contract validation** — JWT auth & refresh flow, business-rule checks, data-driven tests, response-time guard, and a real API bug documented with `test.fail()` | [HTML](https://amr-medhat-qa.github.io/playwright-api-testing/) · [Allure](https://amr-medhat-qa.github.io/playwright-api-testing/allure/) |
 | [**selenium-java-testng**](https://github.com/amr-medhat-qa/selenium-java-testng) | UI framework with **Selenium WebDriver, Java 21 & TestNG** — Page Object Model with explicit waits only, ThreadLocal driver for parallel runs, Chrome/Firefox/Edge, data-driven tests, **Allure reporting**, and flaky tests investigated from Chrome's network log (root causes documented); CI tests a pinned local build of the app instead of a public site | [Allure](https://amr-medhat-qa.github.io/selenium-java-testng/) |
 | [**postman-newman-api-testing**](https://github.com/amr-medhat-qa/postman-newman-api-testing) | **Postman collection + Newman** for the Restful-Booker API — 20 requests, 93 assertions, request chaining, JSON Schema checks, pre-request data generation, **data-driven run from CSV**, negative and security cases, API bugs documented, Newman runs in GitHub Actions on every push and on weekdays | [HTML](https://amr-medhat-qa.github.io/postman-newman-api-testing/) |
+| [**graphql-api-testing**](https://github.com/amr-medhat-qa/graphql-api-testing) | **GraphQL API** suite with Playwright, TypeScript & **Zod contracts** — 48 tests: queries with variables and fragments, paging, filters, aliases and directives, schema introspection, error handling, and API quirks documented; rate limits of a public API handled with pacing and a safe retry | [HTML](https://amr-medhat-qa.github.io/graphql-api-testing/) |
 
 ### 💼 Experience
 
